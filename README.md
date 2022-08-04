@@ -2,13 +2,13 @@
 
 Anotaciones de herramientas para busqeda de informacion de personas con rut en internet
 
-## PorNombre
+## ::PorNombre
 
 ### WEB
 [Acreencias Bancarias](https://acreencias.cmfchile.cl/clientebancario/portada?indice=103.0)
 [Nombre rut y direccion del servel](https://www.nombrerutyfirma.com)
 
-## Por rut
+## ::Por rut
 ### Web
 
 [A que mutualidad pertenece](https://www.mutual.cl/portal/publico/mutual/inicio/home/consulte-aqui-a-que-mutualidad-pertenece/)
@@ -39,7 +39,7 @@ Anotaciones de herramientas para busqeda de informacion de personas con rut en i
 
 
 
-## Patente
+## ::Patente
 
 ### WEB
 [Multas](https://www.patentechile.com/consultar-multas/)
@@ -49,3 +49,7 @@ Anotaciones de herramientas para busqeda de informacion de personas con rut en i
 [Busqueda de multas](https://masterchileapk.info/ws-multas/api/multas.php?key=88c0f63e78074af5cf3eb3d8f0bbca60&pat=XXYY11)
 [Busqueda de multas](https://masterchileapk.info/ws-multas/view/?patente=XXYY11)
 
+
+## ::Por Telefono
+[NumVerify](https://numverify.com)
+[TrueCaller](https://www.truecaller.com)
