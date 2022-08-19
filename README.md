@@ -5,33 +5,33 @@ Anotaciones de herramientas para busqeda de informacion de personas con rut en i
 ## ::PorNombre
 
 ### WEB
-[Acreencias Bancarias](https://acreencias.cmfchile.cl/clientebancario/portada?indice=103.0)
-[Nombre rut y direccion del servel](https://www.nombrerutyfirma.com)
+* [Acreencias Bancarias](https://acreencias.cmfchile.cl/clientebancario/portada?indice=103.0)
+* [Nombre rut y direccion del servel](https://www.nombrerutyfirma.com)
 
 ## ::Por rut
 ### Web
 
-[A que mutualidad pertenece](https://www.mutual.cl/portal/publico/mutual/inicio/home/consulte-aqui-a-que-mutualidad-pertenece/)
-[Caja compensacion](https://consultatucaja.cajasdechile.cl/Consulta/Rut)
-[AFP](https://www.spensiones.cl/apps/certificados/formConsultaAfiliacion.php)
+* [A que mutualidad pertenece](https://www.mutual.cl/portal/publico/mutual/inicio/home/consulte-aqui-a-que-mutualidad-pertenece/)
+* [Caja compensacion](https://consultatucaja.cajasdechile.cl/Consulta/Rut)
+* [AFP](https://www.spensiones.cl/apps/certificados/formConsultaAfiliacion.php)
 
-[Nombre rut y direccion del servel](https://www.nombrerutyfirma.com)
-[Datos de vehiculos asociados a un rut](https://www.volanteomaleta.com/)
-[Es Bombero?](https://bomberos.cl/sist/buscar_bombero/)
-[Es donante?](https://consultarnnd.srcei.cl/ConsultaRNND/)
+* [Nombre rut y direccion del servel](https://www.nombrerutyfirma.com)
+* [Datos de vehiculos asociados a un rut](https://www.volanteomaleta.com/)
+* [Es Bombero?](https://bomberos.cl/sist/buscar_bombero/)
+* [Es donante?](https://consultarnnd.srcei.cl/ConsultaRNND/)
 
-[Valida rut con numero serie cedula](https://www4.sii.cl/crepInternet/VerificacionCedula.html)
+* [Valida rut con numero serie cedula](https://www4.sii.cl/crepInternet/VerificacionCedula.html)
 
 
 
 #### Universidades
-[Universidad san sebastian](https://pagos.uss.cl/Seguridad/frmLogin.aspx)
-[Universidad de la frontera](https://ufro.e-pagos.cl/ufroPP/olvido_clave.html)
-[DUOC](http://www2.duoc.cl/portal-de-pagos-en-linea)
-[UDLA](https://pago-online.udla.cl/)
+* [Universidad san sebastian](https://pagos.uss.cl/Seguridad/frmLogin.aspx)
+* [Universidad de la frontera](https://ufro.e-pagos.cl/ufroPP/olvido_clave.html)
+* [DUOC](http://www2.duoc.cl/portal-de-pagos-en-linea)
+* [UDLA](https://pago-online.udla.cl/)
 
 #### Servicios
-[VTR](https://vtr.com/portaldepagos/initial)
+* [VTR](https://vtr.com/portaldepagos/initial)
 
 
 ### URL
