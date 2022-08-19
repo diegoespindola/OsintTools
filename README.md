@@ -35,21 +35,21 @@ Anotaciones de herramientas para busqeda de informacion de personas con rut en i
 
 
 ### URL
-[Cumpleaños y edad por rut](http://masterchileapk.info/ws-birthday/api/?rut=)
+* [Cumpleaños y edad por rut](http://masterchileapk.info/ws-birthday/api/?rut=)
 
 
 
 ## ::Patente
 
 ### WEB
-[Multas](https://www.patentechile.com/consultar-multas/)
-[Dueño auto](https://www.soapok.cl/seguros-online/soap-cotiza)
+* [Multas](https://www.patentechile.com/consultar-multas/)
+* [Dueño auto](https://www.soapok.cl/seguros-online/soap-cotiza)
 
 ### Por URL
-[Busqueda de multas](https://masterchileapk.info/ws-multas/api/multas.php?key=88c0f63e78074af5cf3eb3d8f0bbca60&pat=XXYY11)
-[Busqueda de multas](https://masterchileapk.info/ws-multas/view/?patente=XXYY11)
+* [Busqueda de multas](https://masterchileapk.info/ws-multas/api/multas.php?key=88c0f63e78074af5cf3eb3d8f0bbca60&pat=XXYY11)
+* [Busqueda de multas](https://masterchileapk.info/ws-multas/view/?patente=XXYY11)
 
 
 ## ::Por Telefono
-[NumVerify](https://numverify.com)
-[TrueCaller](https://www.truecaller.com)
+* [NumVerify](https://numverify.com)
+* [TrueCaller](https://www.truecaller.com)
